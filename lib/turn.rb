@@ -25,5 +25,4 @@ end
 
 def turn(board)
   puts "Please enter 1-9:"
-   board[index] = user_input
 end
