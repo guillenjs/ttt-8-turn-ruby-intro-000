@@ -10,3 +10,5 @@ input_to_index(user_input)
 
 valid_move = valid_move(board, index)
 turn = turn(board)
+
+input_to_index(user_input) = get.strip
