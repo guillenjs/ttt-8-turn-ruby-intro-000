@@ -5,10 +5,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 turn(board)
-valid_move?(board, index)
-input_to_index(user_input)
 
-valid_move = valid_move(board, index)
-turn = turn(board)
-
-input_to_index(user_input) = get.strip
